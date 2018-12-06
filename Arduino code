@@ -1,0 +1,41 @@
+void setup() {
+  // put your setup code here, to run once:
+
+}
+
+void loop() {
+  readtopmain();
+  readtopstop();
+  stepup();
+
+  readbutton();
+  readdown();
+  stepdown();
+    
+  // put your main code here, to run repeatedly:
+
+}
+
+void stepup(){
+  
+}
+
+void readdown(){
+  
+}
+
+void stepdown(){
+  
+}
+
+void readtopmain(){
+  
+}
+
+void readtopstop(){
+  
+}
+
+void readbutton(){
+  
+}
